@@ -63,4 +63,4 @@ jupyter notebook air_passengers_forecasting.ipynb
 
 ## Author
 
-Gabriel Blackstock  [GitHub](https://github.com/GabrielBlackstock)
+Gabriel Blackstock
